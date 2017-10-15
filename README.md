@@ -30,17 +30,9 @@ News Mapper:
 
 ## Requirements
 
-- Node.js 6.4.x
+- Node 6.4.x
 - MongoDB
-- Mapbox 0.38.0
-- Bootstrap
 - Webpack 2.2.1
-- IBM Watson
-- Webhose.io
-- Express
-- JQuery
-- Cron
-- React/ React DOM
 
 
 ## Development
