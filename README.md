@@ -1,9 +1,14 @@
-# News Mapper
+# Spectrum
 
-> Map display of top news articles' tone by state
+> Chloropleth mapping for topic sentiment by state or country
 
 ## Team
-
+Spectrum:
+  - Mason Raasch
+  - Brian Wong
+  - Jennifer Wang
+  - Josh Broberg
+News Mapper:
   - Bryant
   - Rich
   - Jake
@@ -21,7 +26,7 @@
 
 ## Usage
 
-> Select an emotion to view the level of that emotion in today's news for articles related to each state
+> Select timeframe (up to one month prior), emotion, and topic to visualize correlation by state or country
 
 ## Requirements
 
