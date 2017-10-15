@@ -3,12 +3,12 @@
 > Chloropleth mapping for topic sentiment by state or country
 
 ## Team
-Spectrum:
+#### Spectrum:
   - Mason Raasch
   - Brian Wong
   - Jennifer Wang
   - Josh Broberg
-News Mapper:
+#### News Mapper:
   - Bryant
   - Rich
   - Jake
@@ -20,7 +20,6 @@ News Mapper:
 1. [Requirements](#requirements)
 1. [Development](#development)
     1. [Installing Dependencies](#installing-dependencies)
-    1. [Tasks](#tasks)
 1. [Roadmap](#roadmap)
 1. [Contributing](#contributing)
 
@@ -42,10 +41,10 @@ News Mapper:
 From within the root directory:
 
 ```sh
-npm install
-react-dev
-database-dev
-server-dev
+yarn or npm i
+watch
+start-db
+start-server
 ```
 
 ### Roadmap
